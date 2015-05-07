@@ -59,10 +59,10 @@ public abstract class Codificador {
 	}
 	
 	private String codificaLetra(String letra){
-		return transformaCaractereEmLeet(letra);
+		return transformaCaractere(letra);
 	}
 
-	private String transformaCaractereEmLeet(String caractere) {		
+	private String transformaCaractere(String caractere) {		
 		return dicionario.get(caractere);
 	}
 	
