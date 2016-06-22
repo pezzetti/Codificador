@@ -1,2 +1,2 @@
-# Codificador
-Codificador de texto para Morse e para Leet utilizando técnicas de refatoração, testes unitários e code coverage.
+# Encoder
+Simple encoder text to Morse and to Leet language using refactoring techniques, unit tests and code coverage.
